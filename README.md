@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ChristiaanSmit1
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Python development
+- 🌱 I’m currently learning Python development and Cloud Technology
 - 🙂 I’m Always trying to better myself each and every day
